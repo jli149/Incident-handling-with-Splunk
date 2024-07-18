@@ -1,5 +1,6 @@
 # Incident-handling-with-Splunk
-Learn to use Splunk for incident handling through interactive scenarios.
+- Learn to use Splunk for incident handling through interactive scenarios.
+- Investigate the cyber attack and map the attacker's activities into all 7 of the Cyber Kill Chain Phases.
 
 Link to exercise: https://tryhackme.com/r/room/splunk201
 
